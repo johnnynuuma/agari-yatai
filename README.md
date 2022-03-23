@@ -4,8 +4,13 @@
 <summary>Introduction
 </summary>
 
-Sensei: hup -- click, click, click, click  
+Sensei: hup -- click, click, click, click 
+ ---
 
+| 1 | 2 | 3 |
+ 
+ ----
+ 
 -  DOKO DON ni san shi go roku shichi hachi  
 -  DOKO DON ni san shi go roku shichi hachi
 -  DOKO DON ni san shi go roku shichi hachi
@@ -32,39 +37,39 @@ sounds like
 
 | 1 | 2 | 3 |
 |----|----|----|
-|DOKO|----|----|
+|DOKO|----|----| 
 |----|DOKO|----|
+|----|----|DOKO| 
+|DOKO|----|----|
+|----|DOKO|----| 
 |----|----|DOKO|
 |DOKO|----|----|
 |----|DOKO|----|
 |----|----|DOKO|
 |DOKO|----|----|
 |----|DOKO|----|
-|----|----|DOKO|
-|DOKO|----|----|
-|----|DOKO|----|
-|----|----|DOKO|
+|----|----|DOKO| 
+ 
 
-|DON-KON-DON|DON-KON-DON|DON-KON-DON|DON-KON-DON|  (4)
-  
+DO-KO-DON DO-KO-DON DO-KO-DON DO-KO DON (4)
+ 
+ 
 | 1 | 2 | 3 |
-|----|----|----| 
-|DOKO|----|----|  (1)
-|----|DOKO|----|  (2)
-|----|----|DOKO|  (3)
-|DOKO|----|----|  (1)
-|----|DOKO|----|  (2)
-|----|----|DOKO|  (3)
-|DOKO|----|----|  (1)
-|----|DOKO|----|  (2)
-|----|----|DOKO|  (3)
-|DOKO|----|----|  (1)
-|----|DOKO|----|  (2)
-|----|----|DOKO|  (3)
-
-| 1 | 2 | 3 | 4|
 |----|----|----|
-|DON-KON-DON|DON-KON-DON|DON-KON-DON|DON-KON-DON|  (4)
+|DOKO|----|----| 
+|----|DOKO|----|
+|----|----|DOKO| 
+|DOKO|----|----|
+|----|DOKO|----| 
+|----|----|DOKO|
+|DOKO|----|----|
+|----|DOKO|----|
+|----|----|DOKO|
+|DOKO|----|----|
+|----|DOKO|----|
+|----|----|DOKO|
+ 
+DO-KO-DON DO-KO-DON DO-KO-DON DO-KO DON (4)
   
   ---
   
@@ -81,8 +86,6 @@ DON KON DON (chu )
 DON suku KON suku DON suku KON suku
 DON-KON-DON KON-DON_KON DON-KON-DON KON_DON-KON (crescendo -- pause last KON )
  
-  
-  
   
 </details>
 
