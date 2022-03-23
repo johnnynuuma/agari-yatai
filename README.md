@@ -1,7 +1,5 @@
-# drum-revolution
-assorted kuchi shouga
+# agari yatai -- kuchi shoga
 
-Yatai 
 <details>
 <summary>Introduction
 </summary>
