@@ -3,12 +3,87 @@
 <details>
 <summary>Introduction
 </summary>
-#heading: hup click, click, click, click
 
-* doko don ni san shi go roku shich hach
-* doko don ni san shi go roku shich hach
-* doko don ni san shi go roku shich hach
-* doko don ni san shi go roku shich hach
+Sensei: hup -- click, click, click, click  
+
+-  DOKO DON ni san shi go roku shichi hachi  
+-  DOKO DON ni san shi go roku shichi hachi
+-  DOKO DON ni san shi go roku shichi hachi
+-  DOKO DON ni san shi go roku shichi hachi
+ 
+  ---
+  
+* DON KON ni-n sa-n shi-n go-n rok-u shic-hi ha-chi
+* DON KON ni-n sa-n shi-n go-n rok-u shic-hi ha-chi
+* DON KON ni-n sa-n shi-n go-n rok-u shi-chi ha-chi
+* DON KON ni-n sa-n shi-n go-n rok-u shi-chi ha-chi
+  
+  ---
+  
+* DON DON ni-n sa-n shi-n go-n rok-u shi-chi ha-chi (1)
+* i-chi ni-n DON-n shi-n go-n rok-u shi-chi hachi (2)
+* i-chi don ni-n sa-n shi-n go-n DON-n shi-chi hachi (3)
+* i-chi don ni-n sa-n shi-n go-n rok-u shi-KON DON-chi (4)
+
+sounds like
+* DON DON ni-n SA-n shi-n go-n ROK-u shi-KON HACH-chi (1)
+  
+ ---
+
+| 1 | 2 | 3 |
+|----|----|----|
+|DOKO|----|----|
+|----|DOKO|----|
+|----|----|DOKO|
+|DOKO|----|----|
+|----|DOKO|----|
+|----|----|DOKO|
+|DOKO|----|----|
+|----|DOKO|----|
+|----|----|DOKO|
+|DOKO|----|----|
+|----|DOKO|----|
+|----|----|DOKO|
+
+|DON-KON-DON|DON-KON-DON|DON-KON-DON|DON-KON-DON|  (4)
+  
+| 1 | 2 | 3 |
+|----|----|----| 
+|DOKO|----|----|  (1)
+|----|DOKO|----|  (2)
+|----|----|DOKO|  (3)
+|DOKO|----|----|  (1)
+|----|DOKO|----|  (2)
+|----|----|DOKO|  (3)
+|DOKO|----|----|  (1)
+|----|DOKO|----|  (2)
+|----|----|DOKO|  (3)
+|DOKO|----|----|  (1)
+|----|DOKO|----|  (2)
+|----|----|DOKO|  (3)
+
+| 1 | 2 | 3 | 4|
+|----|----|----|
+|DON-KON-DON|DON-KON-DON|DON-KON-DON|DON-KON-DON|  (4)
+  
+  ---
+  
+DON DOKO DOKO DOKO DON DOKO DOKO DOKO  (chu)
+DORO suKO suKO DORO suKO suKO ( odaiko )
+  
+DON DOKO DOKO DOKO DON DOKO DOKO DOKO  (chu)
+DORO suKO suKO DORO suKO suKO DORO suDO KON( odaiko )  
+  
+DON KON DON  (chu)
+DORO suDO KON( odaiko )  
+DON KON DON (chu )
+  
+DON suku KON suku DON suku KON suku
+DON-KON-DON KON-DON_KON DON-KON-DON KON_DON-KON (crescendo -- pause last KON )
+ 
+  
+  
+  
 </details>
 
 <details>
