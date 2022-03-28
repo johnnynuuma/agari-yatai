@@ -88,32 +88,29 @@ Note: Here we switch 16 beats of 3/3
  NOTE: speeding up a little
 | position| 1 | 2 | 3 | 4 |
 | ------ |----|----|----|----|
-| 4 | DON-KON-DON |DON-KON-DON | DON-KON-DON | DON-KON-DON |
+| 4 | DON-KON-DON |KON-DON-KON | DON-KON-DON | KON-DON-KON |
   
   ---
 NOTE:  call/answer between chu & odaiko
 
-| position | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| ------ |----|----|----|----|----|----|----|----|
-| chu(call) | DON |  |DOKO | DOKO| DON | |DOKO |DOKO|
-| odaiko (answer) |DORO| suKO|suKO |suKO | DORO |suKO |suKO |suKO |
-
-| position | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |
-| ------ |----|----|----|----|----|----|----|----|
-| chu(call) | DON |  | DOKO | DOKO| DON | |DOKO |DOKO|
-| odaiko(answer) |DORO| suKO|suKO |suKO | DORO |suKO |suKO |suKO |
-| odaiko(call) |DORO| DON | KON ||||||
-| chu(answer) | DON | KON | KON |||||| 
-| odaiko(call) |DORO| DON | KON ||||||
-| chu(answer) | DON | KON | KON ||||||  
+| position | 1 | 2 | 3 | 2 | 2 | 3 |
+| ------ |----|----|----|----|----|----|
+| chu(call) | DON | DOKO | DOKO| DON | DOKO | DOKO |
+| odaiko (answer) |DOROsuKO|suKO |suKO | DOROsuKO |suKO |suKO |
+| chu(call) | DON | DOKO | DOKO| DON | DOKO | DOKO |
+| odaiko (answer) |DOROsuKO|suKO |suKO | DOROsuKO |suKO |suKO |
+| odaiko (call) |DOROsuKO|suKO |suKO| | | |
+| chu(answer) |  | |  | DON| KON| DON |
+| odaiko (call) |DOROsuKO|suKO |suKO| | | |
+| chu(answer) |  | |  | DON| KON| DON |
 
 
- Note: last (4) DON-KON-DON cresendo yell and pose on last DON
+ Note: 3/3 
 | 1 | 2 | 3 | 4 |
 |----|----|----|----|
 | DON suku | KON suku | DON suku |KON suku |
-|DON-KON-DON |KON-DON_KON | DON-KON-DON | KON_DON-KON |
-
+|DON-KON-DON |KON-DON_KON | DON-KON-DON | KON-DON-KON |
+Note: last KON-DON-KON  cresendo yell and pose on last DON
  
   
 </details>
