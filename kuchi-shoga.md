@@ -328,7 +328,13 @@ DORO suku DORO suku </br>
 
 </details>
 
-| Column 1 | 
-| -------- |
-|<details><summary><b>Ending</b></summary>yada</br>yada<br/>yada<br><details><summary><b>Embedded</b></summary>yada</br>yada<br/>yada<br></details></details>| 
-|<details><summary><b>Ending</b></summary>yada</br>yada<br/>yada<br><details><summary><b>Embedded</b></summary></details></details>|
+
+<details>
+<summary><b>Part 1</b></summary>
+ 
+| Phrases  | 
+| :-------- |
+|<details><summary><b>#1</b></summary>doko doko doko doko \| doko doko doko doko \| doko doko doko doko \| doko doko doko doko <br/>DON DON DON DON \| DON DON DON DON  \| DON DON DON DON \| DON DON DORON (suku )<br/></details>| 
+|<details><summary><b>#2</b></summary>doko doko doko doko \| doko doko doko doko \| doko doko doko doko \| doko doko doko doko <br/>DON su KON su DON su KON su DON KON \| DON su KON su DON su KON su DON KON<br/></details>|
+
+</details>
