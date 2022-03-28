@@ -1,4 +1,5 @@
-# agari yatai -- kuchi shōga
+# agari yatai -- kuchi shōga ( DON, do, ka, su  = right,  KON, RON, ra, ku = left )
+
 
 <details>
  <summary><b>Introduction</b></summary>
