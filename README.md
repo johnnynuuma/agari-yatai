@@ -1,4 +1,4 @@
-# agari yatai -- kuchi shoga
+# agari yatai -- kuchi shōga
 
 <details>
  <summary><b>Introduction</b></summary>
