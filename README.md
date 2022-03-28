@@ -207,7 +207,7 @@ su DON su su(lift right) DON SO RE <br/>
 su DON su su(lift right) DON SO RE <br/>
 
 4 joins 1,2 & 3 keep going <br/>
-su DON su su(lift right) DON SO RE <br/> <br/>
+su DON su su(lift right) DON SO RE <br/>
 su DON su su(lift right) DON SO RE <br/>
 
 <b>#6 -- play together</b> <br/>
@@ -229,7 +229,70 @@ DON su KON DON <br/>
 <details>
  <summary><b>Part 2</b>
 </summary>
-Note: basically Part 1 w/fancy ending
+
+Note: basically Part 1 w/fancy ending </br>
+ 
+--juichi </br>
+DON KON DON KON </br>
+DON KON DON KON </br>
+DON KON DON KON </br>
+DON KON DORO (suku) </br>
+
+--juichi </br>
+DON su KON su </br>
+DON su KON su </br>
+DON KON </br>
+DON su KON su </br>
+DON su KON su </br>
+DON KON </br>
+
+--juichi </br>
+DOKO DOKO DOKO DORON </br>
+DOKO DOKO DOKO DORON </br>
+DOKO DOKO DOKO DORON </br>
+DOKO DOKO DOKO DORON </br>
+
+--juichi </br>
+DOKO DOKO DORON </br>
+DOKO DOKO DORON </br>
+DOKO DOKO DORON </br>
+DOKO DOKO DORON </br>
+
+doko doko doko doko </br>
+doko doKO DOKO DOKO </br>
+doko doko doko doko </br>
+doko doKO DOKO DOKO </br>
+ 
+DORO suKO suKO suKO suKO DO_RON SO RE </br>
+DON KON DON KON DORON SO RE </br>
+
+--juichi </br>
+DORO suKO suKO suKO </br>
+DONsu KON DON </br>
+DORO suKO suKO suKO </br>
+DONsu KON DON </br>
+DORO suKO suKO suKO </br>
+DORO suKO suKO suKO </br>
+DORO suKO suKO suKO </br>
+DONsu KON DON </br>
+ 
+ --juichi </br>
+NOTE: with arms (cross)DON DORON(lift left) DORON DONsu(throw left forward) DO-DON KON </br>
+DON DORON DORON DONsu DO-DON KON </br>
+DON DORON DORON DONsu DO-DON KON </br>
+DON DORON DORON DONsu DO-DON KON </br>
+DON DORON DORON DONsu DO-DON KON </br>
+ 
+DORO suku suku suku </br>
+DORO suku suku suku </br>
+DORO suku suku suku </br>
+DORO suku suku suku </br>
+DORO suku DORO suku </br>
+DORO suku DORO suku </br>
+DORO suku DORO suku </br>
+DORO suku DORO suku </br>
+
+
 </details>
 
 <details>
