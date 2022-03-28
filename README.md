@@ -177,8 +177,8 @@ DON hup DON hup DONsu KON KON su KO-DON DON su su ka DON KO-DON KON  <br/>
 
 <b>#2</b> <br/>
 DON KON DON KON DON su KON <br/>  
-DON KON DON KON DON su KON <br/>
-DON KON DON KON DON su KON <br/>  
+DON KON DON KON DON su KON
+DON KON DON KON DON su KON 
 DON KON DON KON DON su KON <br/>  
 
 <b>#3 call/answer</b> <br/>
