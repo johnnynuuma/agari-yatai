@@ -119,35 +119,68 @@ Note: last KON-DON-KON  cresendo yell and pose on last DON
  <summary><b>Part 1</b>
 </summary>
  
-Note:  Chu answers first then calls
+Note:  Chu answers 
  
-|  1 |  & |  2 |  & | 3  | &  | 4  | &  |  5 | &  | 6  | &  | 7  | &  | 8  | &  | 
-|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-| doko | doko  | doko  | doko  | doko |doko | doko  | doko  | doko |doko | doko | doko | doko | doko  | doko | doko|
-| DON | DON |DON |DON | DON | DON|DON |DON | DON| DON|DON |DON |DON | DON | DORON | (suku) |
-| doko | doko  | doko  | doko  | doko |doko | doko  | doko  | doko |doko | doko | doko | doko | doko  | doko | doko |
-| DONsu | -KON  | ku-  | DONsu | -KON | ku- | DON | DON | DONsu | -KON  | ku-  | DONsu | -KON | ku- | DON | DON |
-| doko | doko  | doko | DORON | doko |doko | doko  | DORON | doko |doko | doko | DORON| doko | doko | doko | DORON |
-| doko | doko  | DORON | (suku)  | doko |doko | DORON  | (suku)  | doko |doko | DORON | (suku)| doko | doko  | DORON | suku 
-| doko | doko  | doko  | doko  | doko |doKO | DORON | DORON |  doko | doko  | doko  | doko  | doko |doKO | DORON | DORON | 
-| DORO | suRO  | suRO  | suRO  | suRO | DOKON | SO | RE | DON  | KON | DON | KON | DORON |(suko)| SO | RE | 
-| suku | suko  | DORO  | DORO | suku | suku | DORO  | DORO  | suku | suku | DORO | DORO | suku | suku  | DORO | DORO | 
-| suku |  DORO | suku | DORO | suku | DORO | suku  | DORO  | suku | DORO | suko | DORO | suku | DORO | suku | DORO |  
+ doko doko doko doko | doko doko doko doko  <br/> 
+ doko doko doko doko | doko doko doko doko  <br/>
+ 
+ DON DON DON DON | DON DON DON DON  <br/>
+ DON DON DON DON | DON DON DORON (suku )  <br/>
 
-Note:  Call immediately
-|  1 |  & |  2 |  & | 3  | &  | 4  | &  |  5 | &  | 6  | &  | 7  | &  | 8  | &  | 
-|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|----|
-| DON | DON |DON |DON | DON | DON|DON |DON | DON| DON|DON |DON |DON | DON | DORON | (suku) |
-| doko | doko  | doko  | doko  | doko |doko | doko  | doko  | doko |doko | doko | doko | doko | doko  | doko | doko |
-| DONsu | -KON  | ku-  | DONsu | -KON | ku- | DON | DON | DONsu | -KON  | ku-  | DONsu | -KON | ku- | DON | DON |
-| doko | doko  | doko  | doko  | doko |doko | doko  | doko  | doko |doko | doko | doko | doko | doko  | doko | doko|
-| doko | doko  | DORON | (suku)  | doko |doko | DORON  | (suku)  | doko |doko | DORON | (suku)| doko | doko  | DORON | suku 
-| doko | doko  | doko | DORON | doko |doko | doko  | DORON | doko |doko | doko | DORON| doko | doko | doko | DORON |
-| DORO | suRO  | suRO  | suRO  | suRO | DOKON | SO | RE | DON  | KON | DON | KON | DORON |(suko)| SO | RE | 
-| DORO  | DORO | suku | suko | DORO  | DORO | suku | suko | DORO  | DORO | suku | suko | DORO  | DORO | suku | suko |
-| DORO | suku | DORO | suku | DORO | suku  | DORO  | suku | DORO | suko | DORO | suku | DORO | suku | DORO | suku | 
  
+ doko doko doko doko | doko doko doko doko  <br/> 
+ doko doko doko doko | doko doko doko doko   <br/>
  
+ DONsu KONku DONsu KONku DON KON  <br/>
+ DONsu KONku DONsu KONku DON KON  <br/>
+ 
+ doko doko doko DORON | doko doko doko DORON  <br/>
+ doko doko doko DORON | doko doko doko DORON  <br/>
+
+ doko doko DORON (suku) | doko doko DORON (suku) <br/>
+ doko doko DORON (suku) | doko doko DORON (suku) <br/>
+ 
+ doko doko doko doko | doko doKO DOKO DOKO <br/>
+ doko doko doko doko | doko doKO DOKO DOKO <br/>
+ 
+ DORO suKO suKo suKO | suKO DORON SO RE <br/>
+ DON KON DON KON | DORON (suku) SO RE <br/>
+ 
+ suku suku DOKO DOKO | suku suku DOKO DOKO <br/>
+ suku suku DOKO DOKO | suku suku DOKO DOKO <br/>
+ 
+ suku DORO suku DORO | suku DORO suku DORO <br/>
+ suku DORO suku DORO | suku DORO suku DORO <br/>
+ 
+Note:  immediatley call <br/>
+
+ DON DON DON DON | DON DON DON DON  <br/>
+ DON DON DON DON | DON DON DORON (suku ) <br/>
+ 
+ doko doko doko doko | doko doko doko doko  <br/> 
+ doko doko doko doko | doko doko doko doko  <br/>
+ 
+ DONsu KONku DONsu KONku DON KON  <br/>
+ DONsu KONku DONsu KONku DON KON  <br/>
+ 
+ doko doko DORON (suku) | doko doko DORON (suku) <br/>
+ doko doko DORON (suku) | doko doko DORON (suku) <br/>
+ 
+ doko doko doko DORON | doko doko doko DORON  <br/>
+ doko doko doko DORON | doko doko doko DORON  <br/>
+ 
+ DORO suKO suKo suKO | suKO DORON SO RE  <br/>
+ DON KON DON KON | DORON (suku) SO RE  <br/>
+ 
+ doko doko doko doko | doko doKO DOKO DOKO <br/>
+ doko doko doko doko | doko doKO DOKO DOKO <br/>
+ 
+ DOKO DOKO suku suku | DOKO DOKO suku suku  <br/>
+ DOKO DOKO suku suku | DOKO DOKO suku suku  <br/>
+ 
+ DORO suku DORO suku | DORO suku DORO suku  <br/>
+ DORO suku DORO suku | DORO suku DORO suku  <br/>
+
  
 </details>
 
@@ -295,7 +328,7 @@ DORO suku DORO suku </br>
 
 </details>
 
-<details>
- <summary><b>Ending</b>
-</summary>
-</details>
+| Column 1 | 
+| -------- |
+|<details><summary><b>Ending</b></summary>yada</br>yada<br/>yada<br><details><summary><b>Embedded</b></summary>yada</br>yada<br/>yada<br></details></details>| 
+|<details><summary><b>Ending</b></summary>yada</br>yada<br/>yada<br><details><summary><b>Embedded</b></summary></details></details>|
