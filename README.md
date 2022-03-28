@@ -162,8 +162,68 @@ Note:  Call immediately
 </details>
 
 <details>
- <summary><b>Chudaiko</b>
+ <summary><b>Chudaiko solo</b>
 </summary>
+ 
+<b>NOTE:  end queue of Odaiko solo is:</b>
+
+DO-RON DO-RON DO-RON DO-RON <br/>
+DON KON DON KON <br/>
+DONsu KONsu DON <br/>
+ 
+<b>#1</b> <br/>
+DON hup DON hup DONsu KON KON su KO-DON DON su su ka DON KO-DON KON  <br/>
+DON hup DON hup DONsu KON KON su KO-DON DON su su ka DON KO-DON KON  <br/>
+
+<b>#2</b> <br/>
+DON KON DON KON DON su KON <br/>  
+DON KON DON KON DON su KON <br/>
+DON KON DON KON DON su KON <br/>  
+DON KON DON KON DON su KON <br/>  
+
+<b>#3 call/answer</b> <br/>
+call: DON KO-DON KO-DON KO-DON KO-DON KON <br/>
+ansr: DOKO DOKO DO-RON DOKO DOKO DO-RON <br/>
+call: DON KO-DON KO-DON KO-DON KO-DON KON <br/>
+ansr: DOKO DOKO DO-RON DOKO DOKO DO-RON <br/>
+ 
+<b>#4 call/answer</b> <br/>
+call: DON su DON KON DON su KON DON KON <br/>
+ansr: DOKO DOKO DOKO DOKO DOKO DOKO DOKO DOKO <br/>
+call: DON su DON KON DON su KON DON KON <br/>
+ansr: DOKO DOKO DOKO DOKO DOKO DOKO DOKO DOKO <br/>
+ 
+<b>#5 cumulative</b> <br/>
+1 starts <br/>
+su DON su su(lift right) DON SO RE <br/>
+su DON su su(lift right) DON SO RE <br/>
+
+2 joins, 1 keeps going <br/>
+su DON su su(lift right) DON SO RE <br/>
+su DON su su(lift right) DON SO RE <br/>
+
+3 joins 1 & 2 keep going <br/>
+su DON su su(lift right) DON SO RE <br/>
+su DON su su(lift right) DON SO RE <br/>
+
+4 joins 1,2 & 3 keep going <br/>
+su DON su su(lift right) DON SO RE <br/> <br/>
+su DON su su(lift right) DON SO RE <br/>
+
+<b>#6 -- play together</b> <br/>
+call:  kara DOKO kara DOKO kara DOKO kara DOKO kara DOKO kara DOKO kara DOKO DO-RON (suku) <br/>
+ansr:  DOKO kara DOKO kara DOKO kara DOKO kare DOKO kara DOKO kara DOKO kara DO-RON (suku) <br/>
+ 
+call:  kara kara DOKO DOKO kara kara DOKO DOKO kara kara DOKO DOKO kara kara DOKO DOKO <br/>
+ansr:  DOKO DOKO kara kara DOKO DOKO kara kara DOKO DOKO kara kara DOKO DOKO kara kara <br/>
+ 
+<b># -- all together vigorously</b> <br/>
+DOKO DOKO DOKO DOKO <br/> 
+DOKO DOKO DOKO DOKO <br/>
+DOKO DOKO DOKO DOKO <br/>
+DON su KON DON <br/>
+ 
+ 
 </details>
 
 <details>
