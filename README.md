@@ -46,7 +46,7 @@ Next phrase sounds like
 
   
  ---
-Note: Here we switch 16 beats of 3/3
+Note: switch to 3/3
 | position | 1 | 2 | 3 |
 | ------ |----|----|----|
 | 1 | DOKO|----|----| 
