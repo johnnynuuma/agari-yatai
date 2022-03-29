@@ -7,7 +7,7 @@
 
     Also abandoned the table format starting with Chudaiko solo as for me too cluttered and prefer lyric-style.
 
-## Sound key:
+## Sticking key:
    right =  DON, do, ka, su <br/>
    left = KON, RON, ra, ku <br/>
    capital letters = louder sound <br/>
