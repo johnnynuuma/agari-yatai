@@ -248,7 +248,7 @@ Note: basically Part 1 w/fancy ending </br>
 DON KON DON KON </br>
 DON KON DON KON </br>
 DON KON DON KON </br>
-DON KON DORO (suku) </br>
+DON KON DORON (suku) </br>
 
 --juichi </br>
 DON su KON su </br>
