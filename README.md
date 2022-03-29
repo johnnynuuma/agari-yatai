@@ -200,9 +200,9 @@ call: DON KO-DON KO-DON KO-DON KO-DON KON <br/>
 ansr: DOKO DOKO DO-RON DOKO DOKO DO-RON <br/>
  
 <b>#4 call/answer</b> <br/>
-call: DON su DON KON DON su KON DON KON <br/>
+call: DON su KON DON DON su KON DON <br/>
 ansr: DOKO DOKO DOKO DOKO DOKO DOKO DOKO DOKO <br/>
-call: DON su DON KON DON su KON DON KON <br/>
+call: DON su KON DON DON su KON DON <br/>
 ansr: DOKO DOKO DOKO DOKO DOKO DOKO DOKO DOKO <br/>
  
 <b>#5 cumulative</b> <br/>
@@ -279,16 +279,16 @@ DORO suKO suKO suKO suKO DO_RON SO RE </br>
 DON KON DON KON DORON SO RE </br>
 
 Odaiko:  </br>
-DOKO DOKO DOKON KO DON KON DORON </br>
-DOKO DOKO DOKON KO DON KON DORON </br>
-DOKO DOKO DOKON KO DON KON DORON </br>
-DOKO DOKO DOKON KO DON KON DORON </br>
+DOKO DOKO DOKON KO DON KON DON KON </br>
+DOKO DOKO DOKON KO DON KON DON KON </br>
+DOKO DOKO DOKON KO DON KON DON KON </br>
+DOKO DOKO DOKON KO DON KON DON KON </br>
 Chu:   </br>
 juichi </br>
 
 Odaiko: 
 juichi </br>
-Chu: <br/>
+Chu: twirling bachi move in front of drum<br/>
 DORO suKO suKO suKO </br>
 DONsu KON DON </br>
 DORO suKO suKO suKO </br>
