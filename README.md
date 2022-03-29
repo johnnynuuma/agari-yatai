@@ -242,7 +242,7 @@ DON su KON DON <br/>
  <summary><b>Part 2</b>
 </summary>
 
-Note: basically Part 1 w/fancy ending </br>
+Note: basically Part 1 w/fancy pants ending </br>
  
 --juichi </br>
 DON KON DON KON </br>
