@@ -278,7 +278,17 @@ doko doKO DOKO DOKO </br>
 DORO suKO suKO suKO suKO DO_RON SO RE </br>
 DON KON DON KON DORON SO RE </br>
 
---juichi </br>
+Odaiko:  </br>
+DOKO DOKO DOKON KO DON KON DORON </br>
+DOKO DOKO DOKON KO DON KON DORON </br>
+DOKO DOKO DOKON KO DON KON DORON </br>
+DOKO DOKO DOKON KO DON KON DORON </br>
+Chu:   </br>
+juichi </br>
+
+Odaiko: 
+juichi </br>
+Chu: <br/>
 DORO suKO suKO suKO </br>
 DONsu KON DON </br>
 DORO suKO suKO suKO </br>
