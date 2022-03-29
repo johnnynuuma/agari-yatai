@@ -299,11 +299,11 @@ DORO suKO suKO suKO </br>
 DONsu KON DON </br>
  
  --juichi </br>
-NOTE: with arms (cross)DON DORON(lift left) DORON DONsu(throw left forward) DO-DON KON </br>
-DON DORON DORON DONsu DO-DON KON </br>
-DON DORON DORON DONsu DO-DON KON </br>
-DON DORON DORON DONsu DO-DON KON </br>
-DON DORON DORON DONsu DO-DON KON </br>
+NOTE: with arms (cross)DON DORON(lift left) DORON DONsu(throw left forward) DO-KON KON </br>
+DON DORON DORON DONsu DO-KON KON </br>
+DON DORON DORON DONsu DO-KON KON </br>
+DON DORON DORON DONsu DO-KON KON </br>
+DON DORON DORON DONsu DO-KON KON </br>
  
 DORO suku suku suku </br>
 DORO suku suku suku </br>
