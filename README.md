@@ -1,7 +1,7 @@
 # agari yatai -- kuchi shōga 
 
 ## Disclaimer: 
-   This kuchi shōga is not in public domain and for personal use only and is not to be shared.
+   This kuchi shōga is not in public domain, for personal use only and is not to be shared.
 
 ## Sound key:
    right =  DON, do, ka, su <br/>
