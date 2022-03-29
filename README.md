@@ -1,5 +1,16 @@
-# agari yatai -- kuchi shōga ( DON, do, ka, su  = right,  KON, RON, ra, ku = left )
+# agari yatai -- kuchi shōga 
 
+## Disclaimer: 
+   This kuchi shōga is not in public domain and for personal use only and is not to be shared.
+
+## Sound key:
+   right =  DON, do, ka, su <br/>
+   left = KON, RON, ra, ku <br/>
+   capital letters = louder sound <br/>
+   su & ku = on drum face <br/>
+   ka & ra = wood to wood sound, i.e. bachi to rim of drum <br/>
+   () = means what in between not played, i.e. (su) or (suku) to keep time -- not all silent beats properly marked below.
+   
 
 <details>
  <summary><b>Introduction</b></summary>
