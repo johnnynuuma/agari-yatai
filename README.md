@@ -1,6 +1,6 @@
 # agari yatai -- kuchi shōga 
 
-## The Geewiz Disclaimer - Please treat gently & do not share
+## Usage/Disclaimer - Be kind, be discrete & do not share
    This kuchi shōga is not in public domain, for personal use only. If you find yourself here, there is likely a good reason. Be kind, be discrete and please do not share.
 
    Sure there are mistakes, if find anything please let me know ( jlegassic@gmail.com  ) or file an Issue if you know git.
