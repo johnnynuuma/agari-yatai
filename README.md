@@ -1,7 +1,7 @@
 # agari yatai -- kuchi shōga 
 
 ## The Geewiz Disclaimer ( Please treat gently & do not share ): 
-   This kuchi shōga is not in public domain, for personal use only. If you find yourself here, there is likely a good reason. Be kined and please do not share.
+   This kuchi shōga is not in public domain, for personal use only. If you find yourself here, there is likely a good reason. Be kind and please do not share.
 
 ## Sound key:
    right =  DON, do, ka, su <br/>
