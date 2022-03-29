@@ -1,11 +1,11 @@
 # agari yatai -- kuchi shōga 
 
 ## The Geewiz Disclaimer - Please treat gently & do not share
-   This kuchi shōga is not in public domain, for personal use only. If you find yourself here, there is likely a good reason. Be kind and please do not share.
+   This kuchi shōga is not in public domain, for personal use only. If you find yourself here, there is likely a good reason. Be kind, be discrete and please do not share.
 
-    Sure there are mistakes, if find anything please let me know ( jlegassic@gmail.com  ) or file an Issue if you know git.
+   Sure there are mistakes, if find anything please let me know ( jlegassic@gmail.com  ) or file an Issue if you know git.
 
-    Also abandoned the table format starting with Chudaiko solo as for me too cluttered and prefer lyric-style.
+   Also abandoned the table format starting with Chudaiko solo as for me too cluttered and prefer lyric-style.
 
 ## Sticking key:
    right =  DON, do, ka, su <br/>
