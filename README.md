@@ -207,20 +207,20 @@ ansr: DOKO DOKO DOKO DOKO DOKO DOKO DOKO DOKO <br/>
  
 <b>#5 cumulative</b> <br/>
 1 starts <br/>
-su DON su su(lift right) DON SO RE <br/>
-su DON su su(lift right) DON SO RE <br/>
+su DON su su(lift right) KON SO RE <br/>
+su DON su su(lift right) KON SO RE <br/>
 
 2 joins, 1 keeps going <br/>
-su DON su su(lift right) DON SO RE <br/>
-su DON su su(lift right) DON SO RE <br/>
+su DON su su(lift right) KON SO RE <br/>
+su DON su su(lift right) KON SO RE <br/>
 
 3 joins 1 & 2 keep going <br/>
-su DON su su(lift right) DON SO RE <br/>
-su DON su su(lift right) DON SO RE <br/>
+su DON su su(lift right) KON SO RE <br/>
+su DON su su(lift right) KON SO RE <br/>
 
 4 joins 1,2 & 3 keep going <br/>
-su DON su su(lift right) DON SO RE <br/>
-su DON su su(lift right) DON SO RE <br/>
+su DON su su(lift right) KON SO RE <br/>
+su DON su su(lift right) KON SO RE <br/>
 
 <b>#6 -- play together</b> <br/>
 call:  kara DOKO kara DOKO kara DOKO kara DOKO kara DOKO kara DOKO kara DOKO DO-RON (suku) <br/>
