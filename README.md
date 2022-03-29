@@ -278,6 +278,7 @@ doko doKO DOKO DOKO </br>
 DORO suKO suKO suKO suKO DO_RON SO RE </br>
 DON KON DON KON DORON SO RE </br>
 
+
 Odaiko:  </br>
 DOKO DOKO DOKON KO DON KON DON KON </br>
 DOKO DOKO DOKON KO DON KON DON KON </br>
@@ -285,6 +286,8 @@ DOKO DOKO DOKON KO DON KON DON KON </br>
 DOKO DOKO DOKON KO DON KON DON KON </br>
 Chu:   </br>
 juichi </br>
+
+Note: now fancy pants bit
 
 Odaiko: 
 juichi </br>
