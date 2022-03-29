@@ -1,7 +1,7 @@
 # agari yatai -- kuchi shōga 
 
-## Usage/Disclaimer - Be kind, be discrete & do not share
-   This kuchi shōga is not in public domain, for personal use only. If you find yourself here, there is likely a good reason. Be kind, be discrete and please do not share.
+## Usage/Disclaimer - Be kind, be discrete & share w/DR only
+   This kuchi shōga is not in public domain, for personal use only. If you find yourself here, there is likely a good reason. Be kind, be discrete and please share w/DR only.
 
    Sure there are mistakes, if find anything please let me know ( jlegassic@gmail.com  ) or file an Issue if you know git.
 
@@ -325,6 +325,84 @@ DORO suku DORO suku </br>
 </details>
 
 <details>
- <summary><b>Ending</b>
+ <summary><b>Ending/Home stretch</b>
 </summary>
+   
+ Odaiko: starts <br/>
+   DON DON DON DON <br/>
+   DON DON DON DON <br/>
+   DON DON DON DON <br/>
+   DON DON DON DON <br/>
+
+ Chu: juichi <br/>
+   doko doko doko doko <br/>
+   doko doko doko doko <br/>
+   doko doko doko doko <br/>
+   doko doko doko doko <br/>
+   
+ Odaiko: juichi  <br/>
+   doko doko doko doko <br/>
+   doko doko doko doko <br/>
+   doko doko doko doko <br/>
+   doko doko doko doko <br/>
+   
+  Chu: <br/>
+   DON DON DON DON <br/>
+   DON DON DON DON <br/>
+   DON DON DON DON <br/>
+   DON DON DON DON <br/>
+
+ Odaiko: <br/>
+   DON DON DON DON <br/>
+   DON DON DON DON <br/>
+   <b>DON DON DON DON </b><br/>
+   <b>DON DON DON DON </b><br/>
+
+ Chu: juichi
+   doko doko doko doko <br/>
+   doko doko doko doko <br/>
+   <b>doko doko doko doko </b> <br/>
+   <b>doko doko doko doko </b> <br/>
+   
+ Odaiko: juichi  <br/>
+   doko doko doko doko <br/>
+   doko doko doko doko <br/>
+   <b>doko doko doko doko </b> <br/>
+   <b>doko doko doko doko </b> <br/>
+   
+  Chu: <br/>
+   DON DON DON DON <br/>
+   DON DON DON DON <br/>
+   <b>DON DON DON DON </b><br/> 
+   <b>DON DON DON DON </b><br/>  
+   
+  Together: <br/>
+   DON KON DORON DON KODON KO DORON <br/>
+   DON KON DORON DON KODON KO DORON <br/>
+   DON KON DORON DON KODON KO DORON <br/>
+   DON KON DORON DON KODON KO DORON <br/>
+   
+   DON DON DON DON <br/>
+   DON DON DON DON <br/>
+   DON DON DON DON <br/>
+   DON DON DON DON <br/>
+   
+   <b>DON DON DON DON </b><br/>
+   <b>DON DON DON DON </b><br/>
+   <b>DON DON DON DON </b><br/>
+   <b>DON DON DON DON </b><br/> 
+   
+   DORO suku suku suku <br/>
+   suku suku suku suku <br/>
+   
+   DORO suku suku suku <br/>
+   suku suku suku suku <br/>
+   
+   DORO suku suku suku <br/>
+   suku suku suku suku <br/>
+   
+   DORO suku suku suku <br/>
+   DON  suKON DON  yell,pose <br/>
+   
+   
 </details>
